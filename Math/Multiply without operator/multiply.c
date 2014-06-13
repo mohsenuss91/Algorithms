@@ -25,3 +25,20 @@ int multiply(int a, int b) {
 
 	return res;
 }
+
+
+int sum(float a, float b) {
+	res=a+b;
+	return res;
+}
+
+
+int sub(float a, float b) {
+	res=a-b;
+	return res;
+}
+
+int div(float a, float b) {
+	res=a/b;
+	return res;
+}
